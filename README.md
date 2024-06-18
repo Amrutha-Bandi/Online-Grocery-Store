@@ -50,9 +50,8 @@ Stock analysis: Identify products with high turnover and those that are slow-mov
 Demand forecasting: Predict future sales to optimize stock levels.
 ## 7. Tools and Technologies
 Data collection: SQL, web scraping tools, APIs.
-Data analysis: Python (pandas, numpy, matplotlib, seaborn), R.
+Data analysis: Python (pandas, numpy, matplotlib, seaborn).
 Visualization: Tableau, Power BI, Python (matplotlib, seaborn).
-Machine learning: Scikit-learn for predictive modeling.
 ## 8. Reporting and Recommendations
 Dashboard: Create interactive dashboards to present key findings.
 Reports: Generate detailed reports for different stakeholders.
